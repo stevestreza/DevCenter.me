@@ -1,0 +1,27 @@
+<!--
+<div class="row">
+	<div class="large-12 columns">
+		<input type='text' id='search' autofocus='autofocus'></input>
+	</div>
+</div>
+-->
+
+<div class="row">
+	{{#sites}}
+	<div class="large-4 columns site" id="{{id}}">
+		<a href="/{{id}}">{{name}}</a>
+	</div>
+	{{/sites}}
+</div>
+
+<div class="row">
+	<div class="large-12 columns">
+		<hr />
+		<div class="panel">
+			<h4>Use shortcut URLs!</h4>
+					
+			<p>Each site can be accessed through custom URLs. For example, to access the iOS developer portal, you can go to <a href="http://ios.{{{hostname}}}/">ios.{{{hostname}}}</a> or <a href="http://{{{hostname}}}/ios">{{{hostname}}}/ios</a>.</p>
+		</div>
+		
+	</div>
+</div>

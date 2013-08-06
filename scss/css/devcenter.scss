@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+@import "normalize";
+
+// This includes all of the foundation global elements that are needed to work with any of the other files.
+@import "foundation/variables";
+
+// Foundation Components
+@import
+	"foundation/components/global",
+	"foundation/components/grid",
+	"foundation/components/visibility",
+	"foundation/components/type",
+	"foundation/components/buttons",
+	"foundation/components/inline-lists",
+	"foundation/components/panels",
+	"foundation/components/forms";
+
+.site {
+	height: 44px;
+	line-height: 44px;
+}
+
+.site:nth-child(even) {
+	background-color: darken(#fff, 4%);
+}
+
+#search {
+	border-radius: 4px;
+	height: 44px;
+	line-height: 44px;
+	padding: 10px;
+}

@@ -1,0 +1,52 @@
+{ 
+	"sites": [
+		{
+			"shortcuts": ["apple"],
+			"name": "Apple",
+			"sortKey": "Apple",
+			"url": "http://developer.apple.com/"
+		},
+		{
+			"shortcuts": ["ios"],
+			"name": "iOS Dev Center",
+			"sortKey": "Apple iOS",
+			"url": "http://developer.apple.com/devcenter/ios/"
+		},
+		{
+			"shortcuts": ["mac"],
+			"name": "Mac Dev Center",
+			"sortKey": "Apple Mac",
+			"url": "http://developer.apple.com/devcenter/mac/"
+		},
+		{
+			"shortcuts": ["android", "droid"],
+			"name": "Android",
+			"url": "http://developer.android.com/"
+		},
+		{
+			"shortcuts": ["twitter", "tw"],
+			"name": "Twitter",
+			"url": "http://dev.twitter.com/"
+		},
+		{
+			"shortcuts": ["facebook", "fb"],
+			"name": "Facebook",
+			"url": "http://developers.facebook.com/"
+		},
+		{
+			"shortcuts": ["google", "goog"],
+			"name": "Google",
+			"url": "http://developers.google.com/"
+		},
+		{
+			"shortcuts": ["dropbox", "dbx", "db"],
+			"name": "Dropbox",
+			"url": "http://dropbox.com/developers/"
+		},
+		{
+			"shortcuts": ["app.net", "adn"],
+			"name": "App.net",
+			"url": "http://developers.app.net/"
+		}
+	]
+}
