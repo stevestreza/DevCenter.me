@@ -431,6 +431,16 @@
 			"shortcuts": ["mobage"],
 			"name": "Mobage",
 			"url": "https://developer.mobage.com/"
+		},
+		{
+			"shortcuts": ["silverstripe-api", "ss-api"],
+			"name": "SilverStripe API",
+			"url": "http://api.silverstripe.org/"
+		},
+		{
+			"shortcuts": ["silverstripe-docs", "ss-docs"],
+			"name": "SilverStripe Documentation",
+			"url": "http://docs.silverstripe.org/"
 		}
 		
 	]
