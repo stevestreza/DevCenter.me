@@ -103,6 +103,52 @@
 			"name": "Roku",
 			"sortKey": "Roku",
 			"url": "http://www.roku.com/developer"
+		},
+		{
+			"shortcuts": ["deviantart", "devart", "da"],
+			"name": "deviantART",
+			"url": "http://www.deviantart.com/developers"
+		},
+		{
+			"shortcuts": ["500px"],
+			"name": "500px",
+			"url": "http://developers.500px.com/"
+		},
+		{
+			"shortcuts": ["ubuntu", "canonical"],
+			"name": "Ubuntu",
+			"sortKey": "Canonical",
+			"url": "http://developer.ubuntu.com"
+		},
+		{
+			"shortcuts": ["flickr"],
+			"name": "Flickr",
+			"url": "http://www.flickr.com/services/api"
+		},
+		{
+			"shortcuts": ["tumblr"],
+			"name": "Tumblr",
+			"url": "http://www.tumblr.com/docs/en/api/v2"
+		},
+		{
+			"shortcuts": ["windowsphone", "winpho"],
+			"name": "Windows Phone",
+			"url": "https://dev.windowsphone.com"
+		},
+		{
+			"shortcuts": ["windows", "win8", "win"],
+			"name": "Windows Store",
+			"url": "https://build.windowsstore.com"
+		},
+		{
+			"shortcuts": ["xbox"],
+			"name": "Xbox LIVE",
+			"url": "http://xbox.create.msdn.com"
+		},
+		{
+			"shortcuts": ["wordpress", "wp"],
+			"name": "WordPress",
+			"url": "http://wordpress.org/plugins/about"
 		}
 	]
 }
