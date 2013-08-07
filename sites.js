@@ -14,11 +14,11 @@ for(var idx = 0; idx < sites.length; idx++){
 	}
 }
 
-sites = sites.sort(function(a, b){
-	var aKey = a.sortKey || a.name;
-	var bKey = b.sortKey || b.name;
-	return aKey > bKey;
+ var sortedSites = sites.sort(function(a, b){
+	var aKey = (a.sortKey || a.name).toLowerCase();
+	var bKey = (b.sortKey || b.name).toLowerCase();
+	return aKey > bKey ? 1 : -1;
 });
 
-exports.sitesList = sites;
+exports.sitesList = sortedSites;
 exports.sitesByID = sitesByID;
