@@ -67,6 +67,11 @@
 			"shortcuts": ["sendgrid", "sg"],
 			"name": "Sendgrid",
 			"url": "http://sendgrid.com/developer"
+		},
+		{
+			"shortcuts": ["pebble"],
+			"name": "Pebble",
+			"url": "http://developer.getpebble.com/"
 		}
 	]
 }
