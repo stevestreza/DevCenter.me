@@ -231,6 +231,16 @@
 			"shortcuts": ["cloudapp", "cloud"],
 			"name": "CloudApp",
 			"url": "https://github.com/cloudapp/api/blob/master/README.md"
+		},
+		{
+			"shortcuts": ["rdio"],
+			"name": "Rdio",
+			"url": "http://developer.rdio.com/"
+		},
+		{
+			"shortcuts": ["fitbit"],
+			"name": "Fitbit",
+			"url": "http://dev.fitbit.com/"
 		}
 		
 	]
