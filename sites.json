@@ -211,6 +211,12 @@
 			"name": "Safari",
 			"sortKey": "Apple Safari",
 			"url": "https://developer.apple.com/devcenter/safari/"
+		},
+		{
+			"shortcuts": ["foursquare", "4sq"],
+			"name": "Foursquare",
+			"url": "https://developer.foursquare.com"
 		}
+		
 	]
 }
