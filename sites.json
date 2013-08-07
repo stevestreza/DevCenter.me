@@ -296,6 +296,11 @@
 			"shortcuts": ["pinboard"],
 			"name": "Pinboard API",
 			"url": "https://pinboard.in/api/"
+		},
+		{
+			"shortcuts": ["qobuz"],
+			"name": "Qobuz",
+			"url": "http://www.qobuz.com/page/labs"
 		}
 	]
 }
