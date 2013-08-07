@@ -431,6 +431,11 @@
 			"shortcuts": ["mobage"],
 			"name": "Mobage",
 			"url": "https://developer.mobage.com/"
+		},
+		{
+			"shortcuts": ["sparrow"],
+			"name": "Sparrow Framework",
+			"url": "http://gamua.com/sparrow/help/"
 		}
 		
 	]
