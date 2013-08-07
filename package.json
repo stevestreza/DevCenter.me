@@ -9,6 +9,8 @@
     "express": "3.x",
     "hbs": "*",
     "node-sass": "*",
-    "winston": "*"
+    "winston": "*",
+    "async": "*",
+    "request": "*"
   }
 }
