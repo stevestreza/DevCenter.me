@@ -288,7 +288,7 @@
 		},
 				{
 			"shortcuts": ["webkit"],
-			"name": "Webkit Nightly",
+			"name": "Webkit Nightly Builds",
 			"url": "http://nightly.webkit.org/"
 		},
 		{
