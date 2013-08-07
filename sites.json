@@ -97,6 +97,12 @@
 			"shortcuts": ["github", "gh"],
 			"name": "GitHub",
 			"url": "http://developer.github.com/v3"
+		},
+		{
+			"shortcuts": ["roku"],
+			"name": "Roku",
+			"sortKey": "Roku",
+			"url": "http://www.roku.com/developer"
 		}
 	]
 }
