@@ -221,6 +221,11 @@
 			"shortcuts": ["parse"],
 			"name": "Parse",
 			"url": "https://parse.com/docs"
+		},
+		{
+			"shortcuts": ["cloudapp", "cloud"],
+			"name": "CloudApp",
+			"url": "https://github.com/cloudapp/api/blob/master/README.md"
 		}
 		
 	]
