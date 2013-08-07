@@ -24,7 +24,7 @@ app.configure(function(){
 	app.use(sass.middleware({
 		src:  path.join(__dirname, 'scss'),
 		dest: path.join(__dirname, 'public'),
-		debug: true
+		debug: (process.env.NODE_ENV === "development")
 	}));
 	app.use(express.static(path.join(__dirname, 'public')));
 
