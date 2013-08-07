@@ -1,12 +1,12 @@
-<!--
+
 <div class="row">
 	<div class="large-12 columns">
 		<input type='text' id='search' autofocus='autofocus'></input>
 	</div>
 </div>
--->
 
-<div class="row">
+
+<div class="row" id="services">
 	{{#sites}}
 	<div class="large-4 columns site" id="{{id}}">
 			<a href="http://{{id}}.{{../hostname}}/">{{name}}</a>
@@ -52,3 +52,4 @@
 		</div>		
 	</div>
 </div>
+<script src="javascripts/search.js"></script>
