@@ -404,6 +404,11 @@
 			"shortcuts": ["appurl"],
 			"name": "AppURL API",
 			"url": "http://appurl.org/docs/api"
+		},
+		{
+			"shortcuts": ["podio"],
+			"name": "Podio",
+			"url": "https://developers.podio.com/"
 		}
 		
 	]
