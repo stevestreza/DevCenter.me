@@ -67,6 +67,31 @@
 			"shortcuts": ["sendgrid", "sg"],
 			"name": "Sendgrid",
 			"url": "http://sendgrid.com/developer"
+		},
+		{
+			"shortcuts": ["twitch"],
+			"name": "Twitch",
+			"url": "http://dev.twitch.tv"
+		},
+		{
+			"shortcuts": ["chrome"],
+			"name": "Chrome",
+			"url": "https://developers.google.com/chrome"
+		},
+		{
+			"shortcuts": ["youtube", "yt"],
+			"name": "YouTube",
+			"url": "https://developers.google.com/youtube"
+		},
+		{
+			"shortcuts": ["spotify", "sp"],
+			"name": "Spotify",
+			"url": "https://developer.spotify.com"
+		},
+		{
+			"shortcuts": ["github", "gh"],
+			"name": "GitHub",
+			"url": "http://developer.github.com/v3"
 		}
 	]
 }
