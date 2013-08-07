@@ -19,6 +19,20 @@
 .site {
 	height: 44px;
 	line-height: 44px;
+
+	.shortcuts {
+		font-size: 13px;
+		color: $secondary-color;
+		visibility: hidden;
+
+		a {
+			color: $secondary-color;
+		}
+	}
+}
+
+.show-shortcuts .shortcuts{
+	visibility: visible;
 }
 
 .site:nth-child(even) {

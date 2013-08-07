@@ -9,7 +9,12 @@
 <div class="row">
 	{{#sites}}
 	<div class="large-4 columns site" id="{{id}}">
-		<a href="/{{id}}">{{name}}</a>
+			<a href="/{{id}}">{{name}}</a>
+			<span class="shortcuts">
+				{{#shortcuts}}
+					<a href="/{{.}}">{{.}}</a>
+				{{/shortcuts}}
+			</span>
 	</div>
 	{{/sites}}
 </div>
@@ -27,7 +32,7 @@
 					
 			<div class="row">
 				<div class="large-12 columns">
-					<p>Each site can be accessed through custom URLs. For example, to access the iOS developer portal, you can go to <a href="http://ios.{{{hostname}}}/">ios.{{{hostname}}}</a> or <a href="http://{{{hostname}}}/ios">{{{hostname}}}/ios</a>.</p>
+					<p>Each site can be accessed through custom URLs. For example, to access the iOS developer portal, you can go to <a href="http://ios.{{{hostname}}}/">ios.{{{hostname}}}</a> or <a href="http://{{{hostname}}}/ios">{{{hostname}}}/ios</a>. Press the option/alt key to see all shortcuts.</p>
 				</div>
 			</div>
 		</div>		

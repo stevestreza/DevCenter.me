@@ -57,6 +57,16 @@
 	<script src="javascripts/foundation.min.js"></script>
 	<script>
 		$(document).foundation();
+		$(function(){
+			$(document).keydown(function(e){
+				if(e.altKey){
+					$(document.body).addClass("show-shortcuts");
+				}
+			});
+			$(document).keyup(function(e){
+				$(document.body).removeClass("show-shortcuts");
+			});
+		});
 	</script>
 
 	<script type="text/javascript">
