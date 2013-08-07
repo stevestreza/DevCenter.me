@@ -23,7 +23,7 @@ exports.setup = function(app) {
 		var host = req.headers.host;
 		var hostMatches = host.match(/(.*)\.devcenter.(dev|me)/);
 		if(hostMatches && hostMatches.length > 1){
-			var siteID = hostMatches[1];
+			var siteID = hostMatches[1].toLowerCase();
 			if(showSite(siteID, res)){
 				return;
 			}
@@ -33,7 +33,7 @@ exports.setup = function(app) {
 	});
 
 	app.get("/:site_id", function(req, res){
-		var siteID = req.params.site_id;
+		var siteID = req.params.site_id.toLowerCase();
 		if(!showSite(siteID, res)){
 			res.redirect('/');
 		}
