@@ -213,7 +213,7 @@
 		},
 		{
 			"shortcuts": ["safari"],
-			"name": "Safari",
+			"name": "Safari Dev Center",
 			"sortKey": "Apple Safari",
 			"url": "https://developer.apple.com/devcenter/safari/"
 		},
