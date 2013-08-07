@@ -134,7 +134,6 @@
 		{
 			"shortcuts": ["ubuntu", "canonical"],
 			"name": "Ubuntu",
-			"sortKey": "Canonical",
 			"url": "http://developer.ubuntu.com"
 		},
 		{
