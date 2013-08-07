@@ -374,6 +374,11 @@
 			"shortcuts": ["soundcloud", "sc"],
 			"name": "SoundCloud",
 			"url": "http://developers.soundcloud.com"
+		},
+		{
+			"shortcuts": ["revmob"],
+			"name": "Revmob",
+			"url": "http://sdk.revmob.com/"
 		}
 	]
 }
