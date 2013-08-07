@@ -103,6 +103,12 @@
 			"name": "Roku",
 			"sortKey": "Roku",
 			"url": "http://www.roku.com/developer"
+		},
+		{
+			"shortcuts": ["windows"],
+			"name": "Windows",
+			"sortKey": "Windows",
+			"url": "http://msdn.microsoft.com/en-us/windows"
 		}
 	]
 }
