@@ -451,6 +451,11 @@
 			"shortcuts": ["firebase"],
 			"name": "Firebase",
 			"url": "https://www.firebase.com/docs/"
+		},
+		{
+			"shortcuts": ["epiceditor"],
+			"name": "EpicEditor",
+			"url": "http://epiceditor.com"
 		}
 	]
 }
