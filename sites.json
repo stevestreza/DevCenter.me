@@ -205,6 +205,12 @@
 			"shortcuts": ["instagram"],
 			"name": "Instagram",
 			"url": "http://instagram.com/developer/"
+		},
+		{
+			"shortcuts": ["foursquare", "4sq"],
+			"name": Foursquare,
+			"url": "https://developer.foursquare.com"
 		}
+		
 	]
 }
