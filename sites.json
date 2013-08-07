@@ -47,6 +47,27 @@
 			"shortcuts": ["app.net", "adn"],
 			"name": "App.net",
 			"url": "http://developers.app.net/"
-		}
+		},
+		{
+			"shorcuts": ["pocket"],
+			"name": "Pocket",
+			"url": "http://getpocket.com/developer/"
+		},
+		{
+			"shorcuts": ["linkedin"],
+			"name": "LinkedIn",
+			"url": "http://developer.linkedin.com/"
+		},
+		{
+			"shorcuts": ["reddit"],
+			"name": "Reddit",
+			"url": "http://www.reddit.com/dev/api"
+		},
+		{
+			"shorcuts": ["sendgrid", "sg"],
+			"name": "Sendgrid",
+			"url": "http://sendgrid.com/developer"
+		},
+		
 	]
 }
