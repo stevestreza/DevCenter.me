@@ -103,6 +103,11 @@
 			"name": "Roku",
 			"sortKey": "Roku",
 			"url": "http://www.roku.com/developer"
+		},
+		{
+			"shortcuts": ["storify"],
+			"name": "Storify",
+			"url": "http://dev.storify.com"
 		}
 	]
 }
