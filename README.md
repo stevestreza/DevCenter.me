@@ -15,12 +15,16 @@ Each site is represented in JSON as a hash mapping to the following keys and val
 - `url`: the URL to redirect to. Required.
 - `sortKey`: a key to sort on for display in the directory. If not present, the `name` will be used. Optional.
 
-**Please use hard tabs, not spaces, when adding entries to the JSON file.**
+**Please use hard tabs, not spaces, when adding entries to the JSON file, just to keep things consistent.**
+
+Once your site has been added, there is a test script, `test-sites.js`, which you can run to validate that your shortcuts or URL are not duplicates. This script will be run on all pull requests, and sites which fail this test will either be modified or rejected before being included in the directory. This script requires node.js v0.8.25 due to an [OpenSSL bug](https://github.com/joyent/node/issues/4771).
 
 Installing
 =
 
 To run, clone the repository, run `npm install`, and then run `node app`. You can also show a dynamic hostname by setting the `HOSTNAME` environment variable.
+
+DevCenter.me requires node.js v0.8.16 or higher. The `test-sites.js` script requires node.js v0.8.25.
 
 License
 =
