@@ -274,6 +274,12 @@
 			"name": "The Echo Nest",
 			"sortKey": "echonest",
 			"url": "http://developer.echonest.com/"
+		},
+			{
+			"shortcuts": ["aws"],
+			"name": "Amazon",
+			"sortKey": "amazon",
+			"url": "http://aws.amazon.com/documentation/"
 		}
 		
 	]
