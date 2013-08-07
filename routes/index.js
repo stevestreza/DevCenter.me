@@ -4,13 +4,20 @@
  */
 
 var sites = require("../sites");
+var winston = require("winston");
+var util = require("util");
 
+var siteLogger = new winston.Logger({
+	transports: [
+		new winston.transports.File({filename: "shortcuts.log", json: false})
+	]
+});
 
-function showSite(siteID, res){
+function showSite(siteID, req, res){
 	var site = sites.sitesByID[siteID];
 	if(site){
 		var url = site.url;
-		console.log(new Date().getTime() + " " + site.shortcuts[0]);
+		siteLogger.info(site.shortcuts[0] + " " + req.connection.remoteAddress);
 		res.redirect(url);
 		return true;
 	}else{
@@ -24,7 +31,7 @@ exports.setup = function(app) {
 		var hostMatches = host.match(/(.*)\.devcenter.(dev|me)/);
 		if(hostMatches && hostMatches.length > 1){
 			var siteID = hostMatches[1].toLowerCase();
-			if(showSite(siteID, res)){
+			if(showSite(siteID, req, res)){
 				return;
 			}
 		}
@@ -34,7 +41,7 @@ exports.setup = function(app) {
 
 	app.get("/:site_id", function(req, res){
 		var siteID = req.params.site_id.toLowerCase();
-		if(!showSite(siteID, res)){
+		if(!showSite(siteID, req, res)){
 			res.redirect('/');
 		}
 	});
