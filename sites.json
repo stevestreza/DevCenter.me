@@ -286,7 +286,7 @@
 			"name": "Vimeo",
 			"url": "https://developer.vimeo.com/"
 		},
-				{
+		{
 			"shortcuts": ["webkit"],
 			"name": "Webkit Nightly Builds",
 			"url": "http://nightly.webkit.org/"
