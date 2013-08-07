@@ -436,6 +436,11 @@
 			"shortcuts": ["qobuz"],
 			"name": "Qobuz",
 			"url": "http://www.qobuz.com/page/labs"
+		},
+		{
+			"shortcuts": ["mobage"],
+			"name": "Mobage",
+			"url": "https://developer.mobage.com/"
 		}
 		
 	]
