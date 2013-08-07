@@ -207,9 +207,10 @@
 			"url": "http://instagram.com/developer/"
 		},
 		{
-                        "shortcuts": ["safari"],
-                        "name": "Safari",
-                        "url": "https://developer.apple.com/devcenter/safari/"
-                }
+			"shortcuts": ["safari"],
+			"name": "Safari",
+			"sortKey": "Apple Safari",
+			"url": "https://developer.apple.com/devcenter/safari/"
+		}
 	]
 }
