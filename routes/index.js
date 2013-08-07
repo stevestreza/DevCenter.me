@@ -10,7 +10,7 @@ function showSite(siteID, res){
 	var site = sites.sitesByID[siteID];
 	if(site){
 		var url = site.url;
-		console.log(new Date().getTime() + " " + site.ids[0]);
+		console.log(new Date().getTime() + " " + site.shortcuts[0]);
 		res.redirect(url);
 		return true;
 	}else{
