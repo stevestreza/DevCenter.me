@@ -99,6 +99,11 @@
 			"url": "http://developer.github.com/v3"
 		},
 		{
+			"shortcuts": ["heroku", "h"],
+			"name": "Heroku",
+			"url": "https://devcenter.heroku.com"
+		},
+		{
 			"shortcuts": ["roku"],
 			"name": "Roku",
 			"sortKey": "Roku",
