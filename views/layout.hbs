@@ -70,14 +70,37 @@
 
 			var $rows = $("#services").children("div");
 
-			$('#search').keyup(function() {
-				var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
+			function performSearch(val){
 				$rows.show().filter(function() {
 					var $this = $(this);
 					var text = $this.text().replace(/\s+/g, ' ').toLowerCase();
 					return !~text.indexOf(val);
 				}).hide();
+			}
+
+			function getParameter(paramName) {
+				var searchString = window.location.search.substring(1),
+					i, val, params = searchString.split("&");
+
+				for (i=0;i<params.length;i++) {
+					val = params[i].split("=");
+					if (val[0] == paramName) {
+						return val[1];
+					}
+				}
+				return null;
+			}
+
+			$('#search').keyup(function() {
+				var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
+				performSearch(val);
 			});
+
+			var existingSearch = getParameter("search");
+			if(existingSearch && existingSearch.length > 0){
+				$("#search").val(existingSearch);
+				performSearch(existingSearch);
+			}
 		});
 	</script>
 
