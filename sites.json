@@ -275,7 +275,11 @@
 			"name": "Amazon",
 			"sortKey": "amazon",
 			"url": "http://aws.amazon.com/documentation/"
-		}
-		
+		},
+		{
+			"shortcuts": ["evernote"],
+			"name": "Evernote",
+			"url": "http://dev.evernote.com/"
+		}		
 	]
 }
