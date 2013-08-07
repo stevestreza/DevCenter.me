@@ -280,6 +280,11 @@
 			"shortcuts": ["evernote"],
 			"name": "Evernote",
 			"url": "http://dev.evernote.com/"
-		}		
+		},
+		{
+			"shortcuts": ["vimeo"],
+			"name": "Vimeo",
+			"url": "https://developer.vimeo.com/"
+		}
 	]
 }
