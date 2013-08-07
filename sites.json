@@ -384,6 +384,26 @@
 			"shortcuts": ["appannie", "aa"],
 			"name": "App Annie API",
 			"url": "http://support.appannie.com/categories/20082753-Analytics-API"
+		},
+		{
+			"shortcuts": ["box"],
+			"name": "Box",
+			"url": "http://developers.box.com"
+		},
+		{
+			"shortcuts": ["skydrive"],
+			"name": "Skydrive",
+			"url": "http://msdn.microsoft.com/en-us/live/dn195579"
+		},
+		{
+			"shortcuts": ["dribbble"],
+			"name": "Dribbble API",
+			"url": "http://dribbble.com/api"
+		},
+		{
+			"shortcuts": ["appurl"],
+			"name": "AppURL API",
+			"url": "http://appurl.org/docs/api"
 		}
 		
 	]
