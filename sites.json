@@ -296,6 +296,12 @@
 			"shortcuts": ["pinboard"],
 			"name": "Pinboard API",
 			"url": "https://pinboard.in/api/"
+		},
+		{
+			"shortcuts": ["forecast"],
+			"name": "Forecast for Developers",
+			"sortKey": "forecast",
+			"url": "https://developer.forecast.io/"
 		}
 	]
 }
