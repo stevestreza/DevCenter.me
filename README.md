@@ -15,6 +15,8 @@ Each site is represented in JSON as a hash mapping to the following keys and val
 - `url`: the URL to redirect to. Required.
 - `sortKey`: a key to sort on for display in the directory. If not present, the `name` will be used. Optional.
 
+**Please use hard tabs, not spaces, when adding entries to the JSON file.**
+
 Installing
 =
 
