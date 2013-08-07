@@ -103,6 +103,21 @@
 			"name": "Roku",
 			"sortKey": "Roku",
 			"url": "http://www.roku.com/developer"
+		},		
+		{
+			"shortcuts": ["WP8", "WP7"],
+			"name": "Windows Phone",
+			"url": "https://dev.windowsphone.com/en-us"
+		},
+		{
+			"shortcuts": ["Windows8", "W8"],
+			"name": "Windows 8 Store",
+			"url": "https://appdev.microsoft.com/StorePortals/en-US/Home/LoginLandingPage"
+		},
+		{
+			"shortcuts": ["Blackberry", "BB"],
+			"name": "Blackberry",
+			"url": "https://developer.blackberry.com"
 		}
 	]
 }
