@@ -161,6 +161,20 @@
 			"shortcuts": ["wordpress", "wp"],
 			"name": "WordPress",
 			"url": "http://wordpress.org/plugins/about"
+		},
+		{
+			"shortcuts": ["espn"],
+			"name": "ESPN",
+			"url":" http://developer.espn.com"
+		},
+		{
+			"shortcuts": ["yahoo"],
+			"name": "Yahoo!",
+			"url": "http://developer.yahoo.com"
+		},
+		{
+			"shortcuts": ["instagram"],
+			"name": "Instagram",
+			"url": "http://instagram.com/developer/"
 		}
-	]
 }
