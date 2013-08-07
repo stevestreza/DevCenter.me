@@ -409,6 +409,12 @@
 			"shortcuts": ["podio"],
 			"name": "Podio",
 			"url": "https://developers.podio.com/"
+		},
+		{
+			"shortcuts": ["forecast"],
+			"name": "Forecast.io",
+			"sortKey": "forecast",
+			"url": "https://developer.forecast.io/"
 		}
 		
 	]
