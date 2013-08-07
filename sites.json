@@ -451,6 +451,11 @@
 			"shortcuts": ["firebase"],
 			"name": "Firebase",
 			"url": "https://www.firebase.com/docs/"
-		}
+		},
+    {
+      "shortcuts": ["freeagent"],
+      "name": "FreeAgent",
+      "url": "https://dev.freeagent.com/docs"
+    }
 	]
 }
