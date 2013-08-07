@@ -243,17 +243,17 @@
 			"url": "http://dev.fitbit.com/"
 		},		
 		{
-			"shortcuts": ["WP8", "WP7"],
+			"shortcuts": ["wp8", "wp7"],
 			"name": "Windows Phone",
 			"url": "https://dev.windowsphone.com/en-us"
 		},
 		{
-			"shortcuts": ["Windows8", "W8"],
+			"shortcuts": ["windows8", "w8"],
 			"name": "Windows 8 Store",
 			"url": "https://appdev.microsoft.com/StorePortals/en-US/Home/LoginLandingPage"
 		},
 		{
-			"shortcuts": ["Blackberry", "BB"],
+			"shortcuts": ["blackberry", "bb"],
 			"name": "Blackberry",
 			"url": "https://developer.blackberry.com"
 		}
