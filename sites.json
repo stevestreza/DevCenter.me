@@ -205,6 +205,11 @@
 			"shortcuts": ["instagram"],
 			"name": "Instagram",
 			"url": "http://instagram.com/developer/"
+		},
+		{
+			"shortcuts": ["cloudapp", "cloud"],
+			"name": "CloudApp",
+			"url": "https://github.com/cloudapp/api/blob/master/README.md"
 		}
 	]
 }
