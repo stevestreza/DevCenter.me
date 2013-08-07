@@ -425,6 +425,11 @@
 			"shortcuts": ["box"],
 			"name": "Box",
 			"url": "https://developers.box.com"
+		},
+		{
+			"shortcuts": ["qobuz"],
+			"name": "Qobuz",
+			"url": "http://www.qobuz.com/page/labs"
 		}
 		
 	]
