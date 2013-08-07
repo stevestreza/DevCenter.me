@@ -296,6 +296,26 @@
 			"shortcuts": ["pinboard"],
 			"name": "Pinboard API",
 			"url": "https://pinboard.in/api/"
+		},
+		{
+			"shortcuts": ["box"],
+			"name": "Box",
+			"url": "http://developers.box.com"
+		},
+		{
+			"shortcuts": ["skydrive"],
+			"name": "Skydrive",
+			"url": "http://msdn.microsoft.com/en-us/live/dn195579"
+		},
+		{
+			"shortcuts": ["dribbble"],
+			"name": "Dribbble API",
+			"url": "http://dribbble.com/api"
+		},
+		{
+			"shortcuts": ["appurl"],
+			"name": "APPURL API",
+			"url": "http://appurl.org/docs/api"
 		}
 	]
 }
