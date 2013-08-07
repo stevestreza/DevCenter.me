@@ -420,6 +420,11 @@
 			"name": "Forecast.io",
 			"sortKey": "forecast",
 			"url": "https://developer.forecast.io/"
+		},
+		{
+			"shortcuts": ["box"],
+			"name": "Box",
+			"url": "https://developers.box.com"
 		}
 		
 	]
