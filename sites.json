@@ -285,6 +285,12 @@
 			"shortcuts": ["vimeo"],
 			"name": "Vimeo",
 			"url": "https://developer.vimeo.com/"
+		},
+		{
+			"shortcuts": ["meta"],
+			"name": "devcenter.me",
+			"sortKey": "devcenter",
+			"url": "https://github.com/stevestreza/DevCenter.me"
 		}
 	]
 }
