@@ -114,6 +114,12 @@
 			"name": "Windows",
 			"sortKey": "Windows",
 			"url": "http://msdn.microsoft.com/en-us/windows"
+		},
+		{
+			"shortcuts": ["humanapi"],
+			"name": "human/api",
+			"sortKey": "Human API",
+			"url": "http://humanapi.co/docs"
 		}
 	]
 }
