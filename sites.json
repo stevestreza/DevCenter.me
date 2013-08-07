@@ -296,6 +296,12 @@
 			"shortcuts": ["pinboard"],
 			"name": "Pinboard API",
 			"url": "https://pinboard.in/api/"
+		},
+		{
+			"shortcuts": ["appannie", "aa"],
+			"name": "App Annie API",
+			"url": "http://support.appannie.com/categories/20082753-Analytics-API"
 		}
+		
 	]
 }
