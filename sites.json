@@ -263,6 +263,18 @@
 			"name": "RubyGems.org",
 			"sortKey": "rubygems",
 			"url": "http://guides.rubygems.org/rubygems-org-api/"
+		},
+		{
+			"shortcuts": ["echonest"],
+			"name": "The Echo Nest",
+			"sortKey": "echonest",
+			"url": "http://developer.echonest.com/"
+		},
+			{
+			"shortcuts": ["aws"],
+			"name": "Amazon",
+			"sortKey": "amazon",
+			"url": "http://aws.amazon.com/documentation/"
 		}
 		
 	]
