@@ -1,4 +1,4 @@
-{ 
+{
 	"sites": [
 		{
 			"shortcuts": ["apple"],
@@ -103,6 +103,36 @@
 			"name": "Roku",
 			"sortKey": "Roku",
 			"url": "http://www.roku.com/developer"
+		},
+		{
+			"shortcuts": ["twilio"],
+			"name": "Twilio",
+			"sortKey": "Twilio",
+			"url": "http://www.twilio.com/docs/api"
+		},
+		{
+			"shortcuts": ["twilio-rest"],
+			"name": "Twilio Rest API",
+			"sortKey": "Twilio Rest API",
+			"url": "http://www.twilio.com/docs/api/rest"
+		},
+		{
+			"shortcuts": ["twilio-twiml"],
+			"name": "Twilio Twiml API",
+			"sortKey": "Twilio Twiml API",
+			"url": "http://www.twilio.com/docs/api/twiml"
+		},
+		{
+			"shortcuts": ["twilio-client"],
+			"name": "Twilio Client API",
+			"sortKey": "Twilio Client API",
+			"url": "http://www.twilio.com/docs/client"
+		},
+		{
+			"shortcuts": ["freshbooks"],
+			"name": "Freshbook API",
+			"sortKey": "Freshbook API",
+			"url": "http://developers.freshbooks.com/"
 		}
 	]
 }
