@@ -17,10 +17,11 @@ function showSite(siteID, req, res){
 	var site = sites.sitesByID[siteID];
 	if(site){
 		var url = site.url;
-		siteLogger.info(site.shortcuts[0] + " " + (req.headers["x-real-ip"] || req.connection.remoteAddress));
+		siteLogger.info(siteID + " " + site.shortcuts[0] + " " + (req.headers["x-real-ip"] || req.connection.remoteAddress));
 		res.redirect(url);
 		return true;
 	}else{
+		siteLogger.warn("no site: " + siteID);
 		return false;
 	}
 }
