@@ -471,6 +471,11 @@
 			"shortcuts": ["unity3D"],
 			"name": "Unity Scripting Reference",
 			"url": "http://docs.unity3d.com/"
+		},
+		{
+			"shortcuts": ["vuforia"],
+			"name": "Vuforia SDK",
+			"url": "https://developer.vuforia.com/resources/sdk/"
 		}
 	]
 }
