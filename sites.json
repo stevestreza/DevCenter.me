@@ -298,6 +298,12 @@
 			"url": "https://github.com/stevestreza/DevCenter.me"
 		},
 		{
+			"shortcuts": ["ford", "applink", "sync", "fordsync"],
+			"name": "Ford",
+			"sortKey": "Ford",
+			"url": "https://developer.ford.com"
+		},
+		{
 			"shortcuts": ["pinboard"],
 			"name": "Pinboard API",
 			"url": "https://pinboard.in/api/"
