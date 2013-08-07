@@ -291,6 +291,11 @@
 			"name": "devcenter.me",
 			"sortKey": "devcenter",
 			"url": "https://github.com/stevestreza/DevCenter.me"
+		},
+		{
+			"shortcuts": ["pinboard"],
+			"name": "Pinboard API",
+			"url": "https://pinboard.in/api/"
 		}
 	]
 }
