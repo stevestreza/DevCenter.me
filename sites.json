@@ -152,11 +152,6 @@
 			"url": "http://www.tumblr.com/docs/en/api/v2"
 		},
 		{
-			"shortcuts": ["windowsphone", "winpho"],
-			"name": "Windows Phone",
-			"url": "https://dev.windowsphone.com"
-		},
-		{
 			"shortcuts": ["xbox"],
 			"name": "Xbox LIVE",
 			"url": "http://xbox.create.msdn.com"
