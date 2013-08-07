@@ -379,6 +379,12 @@
 			"shortcuts": ["revmob"],
 			"name": "Revmob",
 			"url": "http://sdk.revmob.com/"
+		},
+		{
+			"shortcuts": ["appannie", "aa"],
+			"name": "App Annie API",
+			"url": "http://support.appannie.com/categories/20082753-Analytics-API"
 		}
+		
 	]
 }
