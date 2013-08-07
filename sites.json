@@ -108,6 +108,12 @@
 			"shortcuts": ["storify"],
 			"name": "Storify",
 			"url": "http://dev.storify.com"
+		},
+		{
+			"shortcuts": ["windows", "win"],
+			"name": "Windows",
+			"sortKey": "Windows",
+			"url": "http://msdn.microsoft.com/en-us/windows"
 		}
 	]
 }
