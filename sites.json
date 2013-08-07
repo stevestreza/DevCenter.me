@@ -431,7 +431,11 @@
 			"shortcuts": ["mobage"],
 			"name": "Mobage",
 			"url": "https://developer.mobage.com/"
+		},
+		{
+			"shortcuts": ["foaas"],
+			"name": "Fuck Off As A Service",
+			"url": "http://foaas.herokuapp.com/"
 		}
-		
 	]
 }
