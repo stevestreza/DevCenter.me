@@ -34,7 +34,7 @@ async.forEach(sites.sitesList, function(site, cb){
 
 	if(!failed){
 		var loaded = false;
-		console.log("Testing " + iterationIndex + " of " + sites.sitesList.length + ": " + site.name + " " + site.url);
+		// console.log("Testing " + iterationIndex + " of " + sites.sitesList.length + ": " + site.name + " " + site.url);
 		request.get(site.url, {rejectUnauthorized: false}, function(err, meta, body){
 			meta = meta || {};
 			if(err || meta.statusCode > 399){
