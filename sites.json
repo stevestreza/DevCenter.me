@@ -456,6 +456,11 @@
 			"shortcuts": ["epiceditor"],
 			"name": "EpicEditor",
 			"url": "http://epiceditor.com"
+		},
+		{
+			"shortcuts": ["freeagent"],
+			"name": "FreeAgent",
+			"url": "https://dev.freeagent.com/docs"
 		}
 	]
 }
