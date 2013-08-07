@@ -349,11 +349,6 @@
 			"url": "https://developers.google.com/+/api"
 		},
 		{
-			"shortcuts": ["ford"],
-			"name": "Ford",
-			"url": "https://developer.ford.com"
-		},
-		{
 			"shortcuts": ["lastfm", "last"],
 			"name": "Last.fm",
 			"url": "http://www.last.fm/api"
@@ -426,11 +421,6 @@
 			"name": "Forecast.io",
 			"sortKey": "forecast",
 			"url": "https://developer.forecast.io/"
-		},
-		{
-			"shortcuts": ["box"],
-			"name": "Box",
-			"url": "https://developers.box.com"
 		},
 		{
 			"shortcuts": ["qobuz"],
