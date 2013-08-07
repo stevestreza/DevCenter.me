@@ -461,6 +461,11 @@
 			"shortcuts": ["freeagent"],
 			"name": "FreeAgent",
 			"url": "https://dev.freeagent.com/docs"
+		},
+		{
+			"shortcuts": ["sparrow"],
+			"name": "Sparrow Framework",
+			"url": "http://gamua.com/sparrow/help/"
 		}
 	]
 }
