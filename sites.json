@@ -103,6 +103,12 @@
 			"name": "Roku",
 			"sortKey": "Roku",
 			"url": "http://www.roku.com/developer"
+		},
+		{
+			"shortcuts": ["humanapi"],
+			"name": "human/api",
+			"sortKey": "Human API",
+			"url": "http://humanapi.co/docs"
 		}
 	]
 }
