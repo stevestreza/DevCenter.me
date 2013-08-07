@@ -205,6 +205,16 @@
 			"shortcuts": ["instagram"],
 			"name": "Instagram",
 			"url": "http://instagram.com/developer/"
+		},
+		{
+			"shortcuts": ["rdio"],
+			"name": "Rdio",
+			"url": "http://developer.rdio.com/"
+		},
+		{
+			"shortcuts": ["fitbit"],
+			"name": "Fitbit",
+			"url": "http://dev.fitbit.com/"
 		}
 	]
 }
