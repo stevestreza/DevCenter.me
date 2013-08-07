@@ -287,6 +287,11 @@
 			"url": "https://developer.vimeo.com/"
 		},
 		{
+			"shortcuts": ["webkit"],
+			"name": "Webkit Nightly Builds",
+			"url": "http://nightly.webkit.org/"
+		},
+		{
 			"shortcuts": ["meta", "devcenter"],
 			"name": "devcenter.me",
 			"sortKey": "devcenter",
