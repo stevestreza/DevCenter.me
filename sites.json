@@ -256,6 +256,18 @@
 			"shortcuts": ["blackberry", "bb"],
 			"name": "Blackberry",
 			"url": "https://developer.blackberry.com"
+		},
+		{
+			"shortcuts": ["37s", "37signals"],
+			"name": "37signals",
+			"sortKey": "37signals",
+			"url": "https://github.com/37signals/api"
+		},
+		{
+			"shortcuts": ["rubygems"],
+			"name": "RubyGems.org",
+			"sortKey": "rubygems",
+			"url": "http://guides.rubygems.org/rubygems-org-api/"
 		}
 		
 	]
