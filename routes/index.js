@@ -27,6 +27,11 @@ function showSite(siteID, req, res){
 }
 
 exports.setup = function(app) {
+	app.get("/sites.json", function(req, res){
+		res.contentType("application/json");
+		res.send(sites.sitesJSON);
+	});
+
 	app.get("/", function(req, res){
 		var host = req.headers.host;
 		var hostMatches = host.match(/(.*)\.devcenter.(dev|me)/);

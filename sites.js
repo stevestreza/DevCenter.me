@@ -1,6 +1,7 @@
 var fs = require("fs");
 
-var sites = JSON.parse(fs.readFileSync("sites.json")).sites;
+var sitesJSON = fs.readFileSync("sites.json");
+var sites = JSON.parse(sitesJSON).sites;
 var sitesByID = {};
 
 for(var idx = 0; idx < sites.length; idx++){
@@ -22,3 +23,4 @@ for(var idx = 0; idx < sites.length; idx++){
 
 exports.sitesList = sortedSites;
 exports.sitesByID = sitesByID;
+exports.sitesJSON = sitesJSON;
