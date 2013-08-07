@@ -299,7 +299,7 @@
 		},
 		{
 			"shortcuts": ["forecast"],
-			"name": "Forecast for Developers",
+			"name": "Forecast.io",
 			"sortKey": "forecast",
 			"url": "https://developer.forecast.io/"
 		}
