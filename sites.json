@@ -296,6 +296,11 @@
 			"shortcuts": ["pinboard"],
 			"name": "Pinboard API",
 			"url": "https://pinboard.in/api/"
+		},
+		{
+			"shortcuts": ["revmob"],
+			"name": "Revmob",
+			"url": "http://sdk.revmob.com/"
 		}
 	]
 }
