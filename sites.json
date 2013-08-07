@@ -216,6 +216,11 @@
 			"shortcuts": ["foursquare", "4sq"],
 			"name": "Foursquare",
 			"url": "https://developer.foursquare.com"
+		},
+		{
+			"shortcuts": ["parse"],
+			"name": "Parse",
+			"url": "https://parse.com/docs"
 		}
 		
 	]
