@@ -67,6 +67,12 @@
 			"shortcuts": ["sendgrid", "sg"],
 			"name": "Sendgrid",
 			"url": "http://sendgrid.com/developer"
+		},
+				{
+			"shortcuts": ["roku"],
+			"name": "Roku",
+			"sortKey": "Roku",
+			"url": "http://www.roku.com/developer"
 		}
 	]
 }
