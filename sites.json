@@ -420,6 +420,11 @@
 			"name": "Forecast.io",
 			"sortKey": "forecast",
 			"url": "https://developer.forecast.io/"
+		},
+		{
+			"shortcuts": ["mobage"],
+			"name": "Mobage",
+			"url": "https://developer.mobage.com/"
 		}
 		
 	]
