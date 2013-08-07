@@ -191,6 +191,21 @@
 			"name": "Freshbook API",
 			"sortKey": "Freshbook API",
 			"url": "http://developers.freshbooks.com/"
+		},
+		{
+			"shortcuts": ["espn"],
+			"name": "ESPN",
+			"url":" http://developer.espn.com"
+		},
+		{
+			"shortcuts": ["yahoo"],
+			"name": "Yahoo!",
+			"url": "http://developer.yahoo.com"
+		},
+		{
+			"shortcuts": ["instagram"],
+			"name": "Instagram",
+			"url": "http://instagram.com/developer/"
 		}
 	]
 }
