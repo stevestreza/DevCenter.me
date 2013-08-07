@@ -446,6 +446,11 @@
 			"shortcuts": ["silverstripe-docs", "ss-docs"],
 			"name": "SilverStripe Documentation",
 			"url": "http://docs.silverstripe.org/"
+		},
+		{
+			"shortcuts": ["firebase"],
+			"name": "Firebase",
+			"url": "https://www.firebase.com/docs/"
 		}
 	]
 }
