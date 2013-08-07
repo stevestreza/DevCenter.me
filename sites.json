@@ -272,7 +272,7 @@
 		},
 			{
 			"shortcuts": ["aws", "amazon"],
-			"name": "Amazon",
+			"name": "Amazon AWS",
 			"sortKey": "amazon",
 			"url": "http://aws.amazon.com/documentation/"
 		},
@@ -296,6 +296,84 @@
 			"shortcuts": ["pinboard"],
 			"name": "Pinboard API",
 			"url": "https://pinboard.in/api/"
+		},
+		{
+			"shortcuts": ["hue"],
+			"name": "Phillps Hue API",
+			"url": "http://developers.meethue.com"
+		},
+		{
+			"shortcuts": ["azm", "kindle"],
+			"name": "Amazon Mobile",
+			"url": "https://developer.amazon.com"
+		},
+		{
+			"shortcuts": ["pandora"],
+			"name": "Pandora",
+			"url": "https://developer.pandora.com"
+		},
+		{
+			"shortcuts": ["wolframalpha", "wolfram"],
+			"name": "WolframAlpha",
+			"url": "https://developer.wolframalpha.com/portal"
+		},
+		{
+			"shortcuts": ["klout"],
+			"name": "Klout",
+			"url": "http://klout.com/s/developers/docs"
+		},
+		{
+			"shortcuts": ["walmart"],
+			"name": "Walmart",
+			"url": "https://developer.walmartlabs.com"
+		},
+		{
+			"shortcuts": ["grooveshark", "gs"],
+			"name": "Grooveshark",
+			"url": "http://developers.grooveshark.com"
+		},
+		{
+			"shortcuts": ["googleplus", "gplus"],
+			"name": "Google+",
+			"url": "https://developers.google.com/+/api"
+		},
+		{
+			"shortcuts": ["ford"],
+			"name": "Ford",
+			"url": "https://developer.ford.com"
+		},
+		{
+			"shortcuts": ["lastfm", "last"],
+			"name": "Last.fm",
+			"url": "http://www.last.fm/api"
+		},
+		{
+			"shortcuts": ["gree"],
+			"name": "GREE",
+			"url": "https://developer.gree.net/en"
+		},
+		{
+			"shortcuts": ["persona"],
+			"name": "Persona",
+			"sortKey": "Mozilla Identity",
+			"url": "https://developer.mozilla.org/en-US/docs/Mozilla/Persona"
+		},
+		{
+			"shortcuts": ["firefox", "fx"],
+			"name": "Firefox Add-ons",
+			"sortKey": "Mozilla Firefox",
+			"url": "https://addons.mozilla.org/en-US/developers/addons"
+		},
+		{
+			"shortcuts": ["firefoxos", "fxos", "fxm"],
+			"name": "Firefox Marketplace",
+			"sortKey": "Mozilla Firefox OS",
+			"url": "https://marketplace.firefox.com/developers"
+		},
+		{
+			"shortcuts": ["soundcloud", "sc"],
+			"name": "SoundCloud",
+			"url": "http://developers.soundcloud.com"
 		}
 	]
 }
