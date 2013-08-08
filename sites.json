@@ -236,7 +236,7 @@
 			"shortcuts": ["fitbit"],
 			"name": "Fitbit",
 			"url": "http://dev.fitbit.com/"
-		},		
+		},
 		{
 			"shortcuts": ["wp8", "wp7"],
 			"name": "Windows Phone",
@@ -496,6 +496,16 @@
 			"shortcuts": ["phpunit"],
 			"name": "PHPUnit",
 			"url": "http://phpunit.de/manual/current/en/"
+		},
+		{
+			"shortcuts": ["stathat"],
+			"name": "StatHat API Documentation",
+			"url": "https://www.stathat.com/docs/api"
+		},
+		{
+			"shortcuts": ["wufoo"],
+			"name": "Wufoo API Documentation",
+			"url": "http://help.wufoo.com/articles/en_US/SurveyMonkeyArticleType/Wufoo-REST-API-V3"
 		}
 	]
 }
