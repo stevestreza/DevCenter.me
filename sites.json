@@ -236,7 +236,7 @@
 			"shortcuts": ["fitbit"],
 			"name": "Fitbit",
 			"url": "http://dev.fitbit.com/"
-		},		
+		},
 		{
 			"shortcuts": ["wp8", "wp7"],
 			"name": "Windows Phone",
@@ -496,6 +496,16 @@
 			"shortcuts": ["phpunit"],
 			"name": "PHPUnit",
 			"url": "http://phpunit.de/manual/current/en/"
+		},
+		{
+			"shortcuts": ["django"],
+			"name": "Django",
+			"url": "http://docs.djangoproject.com/"
+		},
+		{
+			"shortcuts": ["magento"],
+			"name": "Magento",
+			"url": "http://magento.stackexchange.com/"
 		}
 	]
 }
