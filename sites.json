@@ -486,6 +486,11 @@
 			"shortcuts": ["corona"],
 			"name": "Corona SDK Documentation",
 			"url": "http://docs.coronalabs.com"
+		},
+		{
+			"shortcuts": ["pintrest"],
+			"name": "Pintrest iOS SDK Documentation",
+			"url": "http://developers.pinterest.com/ios/"
 		}
 	]
 }
