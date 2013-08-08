@@ -488,9 +488,14 @@
 			"url": "http://docs.coronalabs.com"
 		},
 		{
-			"shortcuts": ["pintrest"],
+			"shortcuts": ["pinterest"],
 			"name": "Pintrest iOS SDK Documentation",
 			"url": "http://developers.pinterest.com/ios/"
+		},
+		{
+			"shortcuts": ["phpunit"],
+			"name": "PHPUnit",
+			"url": "http://phpunit.de/manual/current/en/"
 		}
 	]
 }
