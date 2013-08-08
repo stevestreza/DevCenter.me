@@ -481,6 +481,11 @@
 			"shortcuts": ["phoneGap"],
 			"name": "PhoneGap Documentation",
 			"url": "http://docs.phonegap.com/"
+		},
+		{
+			"shortcuts": ["corona"],
+			"name": "Corona SDK Documentation",
+			"url": "http://docs.coronalabs.com"
 		}
 	]
 }
