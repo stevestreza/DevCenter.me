@@ -466,6 +466,31 @@
 			"shortcuts": ["sparrow"],
 			"name": "Sparrow Framework",
 			"url": "http://gamua.com/sparrow/help/"
+		},
+		{
+			"shortcuts": ["unity3D"],
+			"name": "Unity Scripting Reference",
+			"url": "http://docs.unity3d.com/"
+		},
+		{
+			"shortcuts": ["vuforia"],
+			"name": "Vuforia SDK",
+			"url": "https://developer.vuforia.com/resources/sdk/"
+		},
+		{
+			"shortcuts": ["phoneGap"],
+			"name": "PhoneGap Documentation",
+			"url": "http://docs.phonegap.com/"
+		},
+		{
+			"shortcuts": ["corona"],
+			"name": "Corona SDK Documentation",
+			"url": "http://docs.coronalabs.com"
+		},
+		{
+			"shortcuts": ["pintrest"],
+			"name": "Pintrest iOS SDK Documentation",
+			"url": "http://developers.pinterest.com/ios/"
 		}
 	]
 }
