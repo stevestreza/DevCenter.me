@@ -496,6 +496,11 @@
 			"shortcuts": ["phpunit"],
 			"name": "PHPUnit",
 			"url": "http://phpunit.de/manual/current/en/"
+		},
+		{
+			"shortcuts": ["steamworks"],
+			"name": "Steamworks",
+			"url": "https://partner.steamgames.com/home/steamworks/"
 		}
 	]
 }
