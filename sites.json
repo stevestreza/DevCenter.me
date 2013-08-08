@@ -280,6 +280,24 @@
 			"name": "Amazon",
 			"sortKey": "amazon",
 			"url": "http://aws.amazon.com/documentation/"
+		},
+			{
+			"shortcuts": ["foscam"],
+			"name": "Foscam IP Webcam",
+			"sortKey": "foscam",
+			"url": "http://www.foscam.es/descarga/ipcam_cgi_sdk.pdf"
+		},
+			{
+			"shortcuts": ["gov"],
+			"name": "US Government Public Data",
+			"sortKey": "gov",
+			"url": "next.data.gov"
+		},
+			{
+			"shortcuts": ["rt"],
+			"name": "RottenTomatoes",
+			"sortKey": "rottentomatoes",
+			"url": "http://developer.rottentomatoes.com/"
 		}
 		
 	]
