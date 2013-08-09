@@ -526,6 +526,11 @@
 			"shortcuts": ["stackmob"],
 			"name": "StackMob ",
 			"url": "https://developer.stackmob.com/"
+		},
+		{
+			"shortcuts": ["gravatar"],
+			"name": "Gravatar",
+			"url": "https://en.gravatar.com/site/implement/"
 		}
 	]
 }
