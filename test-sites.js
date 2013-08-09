@@ -50,12 +50,13 @@ async.forEach(sites.sitesList, function(site, cb){
 					// console.log(iterationIndex + "/" + sites.sitesList.length + " Site '" + site.name + "' succeeded");
 				}
 
-				cb(true);
+				cb(failed ? new Error("Fail") : null, true);
 			}
 		});
 	}else{
-		cb(true);
+		cb(failed ? new Error("Fail") : null, true);
 	}
-}, function(){
+}, function(err){
+	process.exit(err ? 1 : 0);
 	// console.log("Sites done. Failed: ", failedSites.length);
 });
