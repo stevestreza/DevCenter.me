@@ -521,6 +521,11 @@
 			"shortcuts": ["bitly"],
 			"name": "Bitly",
 			"url": "http://dev.bitly.com/"
+		},
+		{
+			"shortcuts": ["stackmob"],
+			"name": "StackMob ",
+			"url": "https://developer.stackmob.com/"
 		}
 	]
 }
