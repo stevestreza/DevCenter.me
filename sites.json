@@ -506,6 +506,16 @@
 			"shortcuts": ["magento"],
 			"name": "Magento",
 			"url": "http://magento.stackexchange.com/"
+		},
+		{
+			"shortcuts": ["stathat"],
+			"name": "StatHat API Documentation",
+			"url": "https://www.stathat.com/docs/api"
+		},
+		{
+			"shortcuts": ["wufoo"],
+			"name": "Wufoo API Documentation",
+			"url": "http://help.wufoo.com/articles/en_US/SurveyMonkeyArticleType/Wufoo-REST-API-V3"
 		}
 	]
 }
