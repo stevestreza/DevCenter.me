@@ -491,6 +491,11 @@
 			"shortcuts": ["pintrest"],
 			"name": "Pintrest iOS SDK Documentation",
 			"url": "http://developers.pinterest.com/ios/"
+		},
+		{
+			"shortcuts": ["pebble"],
+			"name": "Pebble Smart Watch SDK",
+			"url": "http://developer.getpebble.com/sdkref/"
 		}
 	]
 }
