@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"twilio-twiml"
+	],
+	"name": "Twilio Twiml API",
+	"sortKey": "Twilio Twiml API",
+	"url": "http://www.twilio.com/docs/api/twiml",
+	"id": "twilio-twiml"
+}

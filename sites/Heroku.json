@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"heroku",
+		"h"
+	],
+	"name": "Heroku",
+	"url": "https://devcenter.heroku.com",
+	"id": "heroku"
+}

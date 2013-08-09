@@ -1,0 +1,11 @@
+{
+	"shortcuts": [
+		"firefoxos",
+		"fxos",
+		"fxm"
+	],
+	"name": "Firefox Marketplace",
+	"sortKey": "Mozilla Firefox OS",
+	"url": "https://marketplace.firefox.com/developers",
+	"id": "firefoxos"
+}

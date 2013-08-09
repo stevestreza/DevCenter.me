@@ -6,7 +6,7 @@ DevCenter.me is a website to easily get to many developer websites for various A
 Adding Sites
 =
 
-The sites are driven from a file, sites.json. To add a site to the directory, fork this repository, add a site, and submit a pull request.
+The sites are driven from a set of JSON files in the `sites` folder. To add a site to the directory, fork this repository, add a site file, and submit a pull request.
 
 Each site is represented in JSON as a hash mapping to the following keys and values:
 

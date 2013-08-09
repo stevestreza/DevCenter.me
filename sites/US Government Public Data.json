@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"gov"
+	],
+	"name": "US Government Public Data",
+	"sortKey": "gov",
+	"url": "http://next.data.gov/",
+	"id": "gov"
+}

@@ -1,0 +1,8 @@
+{
+	"shortcuts": [
+		"flickr"
+	],
+	"name": "Flickr",
+	"url": "http://www.flickr.com/services/api",
+	"id": "flickr"
+}

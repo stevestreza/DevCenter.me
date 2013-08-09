@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"sendgrid",
+		"sg"
+	],
+	"name": "Sendgrid",
+	"url": "http://sendgrid.com/developer",
+	"id": "sendgrid"
+}

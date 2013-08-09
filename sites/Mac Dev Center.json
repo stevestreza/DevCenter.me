@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"mac"
+	],
+	"name": "Mac Dev Center",
+	"sortKey": "Apple Mac",
+	"url": "http://developer.apple.com/devcenter/mac/",
+	"id": "mac"
+}

@@ -1,0 +1,10 @@
+{
+	"shortcuts": [
+		"dropbox",
+		"dbx",
+		"db"
+	],
+	"name": "Dropbox",
+	"url": "http://dropbox.com/developers/",
+	"id": "dropbox"
+}

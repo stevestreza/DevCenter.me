@@ -1,0 +1,8 @@
+{
+	"shortcuts": [
+		"cpan"
+	],
+	"name": "CPAN module archive for Perl",
+	"url": "https://metacpan.org",
+	"id": "cpan"
+}

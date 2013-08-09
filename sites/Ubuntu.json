@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"ubuntu",
+		"canonical"
+	],
+	"name": "Ubuntu",
+	"url": "http://developer.ubuntu.com",
+	"id": "ubuntu"
+}

@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"trimet"
+	],
+	"name": "TriMet",
+	"sortKey": "trimet",
+	"url": "http://developer.trimet.org",
+	"id": "trimet"
+}

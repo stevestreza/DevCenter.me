@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"humanapi"
+	],
+	"name": "human/api",
+	"sortKey": "Human API",
+	"url": "http://humanapi.co/docs",
+	"id": "humanapi"
+}

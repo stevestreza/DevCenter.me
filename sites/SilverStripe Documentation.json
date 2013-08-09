@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"silverstripe-docs",
+		"ss-docs"
+	],
+	"name": "SilverStripe Documentation",
+	"url": "http://docs.silverstripe.org/",
+	"id": "silverstripe-docs"
+}

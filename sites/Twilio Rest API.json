@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"twilio-rest"
+	],
+	"name": "Twilio Rest API",
+	"sortKey": "Twilio Rest API",
+	"url": "http://www.twilio.com/docs/api/rest",
+	"id": "twilio-rest"
+}

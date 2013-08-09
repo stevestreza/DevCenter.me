@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"echonest"
+	],
+	"name": "The Echo Nest",
+	"sortKey": "echonest",
+	"url": "http://developer.echonest.com/",
+	"id": "echonest"
+}

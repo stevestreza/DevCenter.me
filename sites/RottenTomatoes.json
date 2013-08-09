@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"rt"
+	],
+	"name": "RottenTomatoes",
+	"sortKey": "rottentomatoes",
+	"url": "http://developer.rottentomatoes.com/",
+	"id": "rt"
+}

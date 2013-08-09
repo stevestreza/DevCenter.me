@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"twilio-client"
+	],
+	"name": "Twilio Client API",
+	"sortKey": "Twilio Client API",
+	"url": "http://www.twilio.com/docs/client",
+	"id": "twilio-client"
+}

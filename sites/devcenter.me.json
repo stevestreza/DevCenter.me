@@ -1,0 +1,10 @@
+{
+	"shortcuts": [
+		"meta",
+		"devcenter"
+	],
+	"name": "devcenter.me",
+	"sortKey": "devcenter",
+	"url": "https://github.com/stevestreza/DevCenter.me",
+	"id": "meta"
+}

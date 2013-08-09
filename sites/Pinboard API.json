@@ -1,0 +1,8 @@
+{
+	"shortcuts": [
+		"pinboard"
+	],
+	"name": "Pinboard API",
+	"url": "https://pinboard.in/api/",
+	"id": "pinboard"
+}

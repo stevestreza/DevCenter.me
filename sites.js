@@ -1,7 +1,15 @@
 var fs = require("fs");
 
-var sitesJSON = fs.readFileSync("sites.json");
-var sites = JSON.parse(sitesJSON).sites;
+var sitesFilenames = fs.readdirSync("sites");
+var sites = [];
+for(var idx = 0; idx < sitesFilenames.length; idx++){
+	var siteFilename = sitesFilenames[idx];
+	var siteData = fs.readFileSync("sites/" + siteFilename);
+	var site = JSON.parse(siteData);
+	sites.push(site);
+}
+
+var sitesJSON = JSON.stringify({sites: sites});
 var sitesByID = {};
 
 for(var idx = 0; idx < sites.length; idx++){

@@ -1,0 +1,8 @@
+{
+	"shortcuts": [
+		"webkit"
+	],
+	"name": "Webkit Nightly Builds",
+	"url": "http://nightly.webkit.org/",
+	"id": "webkit"
+}

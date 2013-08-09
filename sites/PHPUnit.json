@@ -1,0 +1,8 @@
+{
+	"shortcuts": [
+		"phpunit"
+	],
+	"name": "PHPUnit",
+	"url": "http://phpunit.de/manual/current/en/",
+	"id": "phpunit"
+}

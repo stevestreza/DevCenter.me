@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"wp8",
+		"wp7"
+	],
+	"name": "Windows Phone Dev Center",
+	"url": "https://dev.windowsphone.com/",
+	"id": "wp8"
+}

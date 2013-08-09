@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"lastfm",
+		"last"
+	],
+	"name": "Last.fm",
+	"url": "http://www.last.fm/api",
+	"id": "lastfm"
+}

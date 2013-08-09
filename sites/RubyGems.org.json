@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"rubygems"
+	],
+	"name": "RubyGems.org",
+	"sortKey": "rubygems",
+	"url": "http://guides.rubygems.org/rubygems-org-api/",
+	"id": "rubygems"
+}

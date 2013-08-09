@@ -1,0 +1,10 @@
+{
+	"shortcuts": [
+		"msdn",
+		"win"
+	],
+	"name": "msdn",
+	"sortKey": "MSDN",
+	"url": "http://msdn.microsoft.com/",
+	"id": "msdn"
+}

@@ -1,0 +1,12 @@
+{
+	"shortcuts": [
+		"ford",
+		"applink",
+		"sync",
+		"fordsync"
+	],
+	"name": "Ford",
+	"sortKey": "Ford",
+	"url": "https://developer.ford.com",
+	"id": "ford"
+}

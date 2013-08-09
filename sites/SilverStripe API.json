@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"silverstripe-api",
+		"ss-api"
+	],
+	"name": "SilverStripe API",
+	"url": "http://api.silverstripe.org/",
+	"id": "silverstripe-api"
+}

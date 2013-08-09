@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"wolframalpha",
+		"wolfram"
+	],
+	"name": "WolframAlpha",
+	"url": "https://developer.wolframalpha.com/portal",
+	"id": "wolframalpha"
+}

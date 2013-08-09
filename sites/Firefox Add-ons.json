@@ -1,0 +1,10 @@
+{
+	"shortcuts": [
+		"firefox",
+		"fx"
+	],
+	"name": "Firefox Add-ons",
+	"sortKey": "Mozilla Firefox",
+	"url": "https://addons.mozilla.org/en-US/developers/addons",
+	"id": "firefox"
+}

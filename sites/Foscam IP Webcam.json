@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"foscam"
+	],
+	"name": "Foscam IP Webcam",
+	"sortKey": "foscam",
+	"url": "http://www.foscam.es/descarga/ipcam_cgi_sdk.pdf",
+	"id": "foscam"
+}

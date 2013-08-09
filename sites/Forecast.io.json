@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"forecast"
+	],
+	"name": "Forecast.io",
+	"sortKey": "forecast",
+	"url": "https://developer.forecast.io/",
+	"id": "forecast"
+}

@@ -1,0 +1,10 @@
+{
+	"shortcuts": [
+		"aws",
+		"amazon"
+	],
+	"name": "Amazon AWS",
+	"sortKey": "amazon",
+	"url": "http://aws.amazon.com/documentation/",
+	"id": "aws"
+}

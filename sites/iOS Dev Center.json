@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"ios"
+	],
+	"name": "iOS Dev Center",
+	"sortKey": "Apple iOS",
+	"url": "http://developer.apple.com/devcenter/ios/",
+	"id": "ios"
+}

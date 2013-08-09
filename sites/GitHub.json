@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"github",
+		"gh"
+	],
+	"name": "GitHub",
+	"url": "http://developer.github.com/v3",
+	"id": "github"
+}

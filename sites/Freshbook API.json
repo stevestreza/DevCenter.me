@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"freshbooks"
+	],
+	"name": "Freshbook API",
+	"sortKey": "Freshbook API",
+	"url": "http://developers.freshbooks.com/",
+	"id": "freshbooks"
+}
