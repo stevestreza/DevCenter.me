@@ -559,6 +559,12 @@
 			"name": "RottenTomatoes",
 			"sortKey": "rottentomatoes",
 			"url": "http://developer.rottentomatoes.com/"
+		},
+		{
+			"shortcuts": ["trimet"],
+			"name": "TriMet",
+			"sortKey": "trimet",
+			"url": "http://developer.trimet.org"
 		}
 	]
 }
