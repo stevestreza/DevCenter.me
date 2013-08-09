@@ -496,6 +496,11 @@
 			"shortcuts": ["pebble"],
 			"name": "Pebble Smart Watch SDK",
 			"url": "http://developer.getpebble.com/sdkref/"
+		},
+		{
+			"shortcuts": ["leap"],
+			"name": "Leap Motion SDK",
+			"url": "https://developer.leapmotion.com/docs"
 		}
 	]
 }
