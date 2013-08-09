@@ -564,6 +564,12 @@
 			"shortcuts": ["leap"],
 			"name": "Leap Motion SDK",
 			"url": "https://developer.leapmotion.com/docs"
+		},
+		{
+			"shortcuts": ["trimet"],
+			"name": "TriMet",
+			"sortKey": "trimet",
+			"url": "http://developer.trimet.org"
 		}
 	]
 }
