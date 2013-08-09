@@ -559,6 +559,11 @@
 			"name": "RottenTomatoes",
 			"sortKey": "rottentomatoes",
 			"url": "http://developer.rottentomatoes.com/"
+		},
+		{
+			"shortcuts": ["leap"],
+			"name": "Leap Motion SDK",
+			"url": "https://developer.leapmotion.com/docs"
 		}
 	]
 }
