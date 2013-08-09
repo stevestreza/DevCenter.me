@@ -115,10 +115,10 @@
 			"url": "http://dev.storify.com"
 		},
 		{
-			"shortcuts": ["windows", "win"],
-			"name": "Windows",
-			"sortKey": "Windows",
-			"url": "http://msdn.microsoft.com/en-us/windows"
+			"shortcuts": ["msdn", "win"],
+			"name": "msdn",
+			"sortKey": "MSDN",
+			"url": "http://msdn.microsoft.com/"
 		},
 		{
 			"shortcuts": ["humanapi"],
@@ -239,13 +239,13 @@
 		},
 		{
 			"shortcuts": ["wp8", "wp7"],
-			"name": "Windows Phone",
-			"url": "https://dev.windowsphone.com/en-us"
+			"name": "Windows Phone Dev Center",
+			"url": "https://dev.windowsphone.com/"
 		},
 		{
 			"shortcuts": ["windows8", "w8"],
-			"name": "Windows 8 Store",
-			"url": "https://appdev.microsoft.com/StorePortals/en-US/Home/LoginLandingPage"
+			"name": "Windows 8 Dev Center",
+			"url": "http://msdn.microsoft.com/en-US/windows/apps/"
 		},
 		{
 			"shortcuts": ["blackberry", "bb"],
