@@ -493,6 +493,16 @@
 			"url": "http://developers.pinterest.com/ios/"
 		},
 		{
+			"shortcuts": ["cpan"],
+			"name": "CPAN module archive for Perl",
+			"url": "https://metacpan.org"
+		},
+		{
+			"shortcuts": ["perl"],
+			"name": "Perl documentation",
+			"url": "https://perldoc.perl.org"
+		},
+		{
 			"shortcuts": ["phpunit"],
 			"name": "PHPUnit",
 			"url": "http://phpunit.de/manual/current/en/"
