@@ -37,7 +37,7 @@ async.forEach(sites.sitesList, function(site, cb){
 		// console.log("Testing " + iterationIndex + " of " + sites.sitesList.length + ": " + site.name + " " + site.url);
 		request.get(site.url, {rejectUnauthorized: false}, function(err, meta, body){
 			meta = meta || {};
-			if(err || meta.statusCode > 399){
+			if(err || (meta.statusCode > 399 && meta.statusCode != 401)){
 				console.log("Site '" + site.name + "' could not be loaded from " + site.url + ": ", meta.statusCode + " " + err);
 				failedSites.push(site);
 				failed = true;
