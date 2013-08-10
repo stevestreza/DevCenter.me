@@ -3,7 +3,7 @@
 		"sendgrid",
 		"sg"
 	],
-	"name": "Sendgrid",
-	"url": "http://sendgrid.com/developer",
+	"name": "SendGrid",
+	"url": "http://sendgrid.com/developers",
 	"id": "sendgrid"
 }
