@@ -1,0 +1,8 @@
+{
+  shortcuts: [
+    "redis"
+  ],
+  name: "Redis",
+  url: "http://redis.io/commands",
+  id: "redis"
+}
