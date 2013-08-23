@@ -1,0 +1,10 @@
+{
+	"shortcuts": [
+		"bt",
+		"Braintree"
+	],
+	"name": "Braintree",
+	"sortKey": "Braintree",
+	"url": "https://www.braintreepayments.com/developers",
+	"id": "braintree"
+}
