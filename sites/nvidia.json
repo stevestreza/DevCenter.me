@@ -1,0 +1,10 @@
+{
+  "shortcuts" : [
+    "nvidia",
+    "cuda",
+    "gpu"
+  ],
+  "name" : "nVIDIA CUDA Toolkit Documentation",
+  "url" : "http://docs.nvidia.com",
+  "id" : "nvidia"
+}
