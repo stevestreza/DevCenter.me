@@ -1,0 +1,10 @@
+{
+	"shortcuts": [
+		"duckduckgo",
+		"ddg"
+	],
+	"name": "DuckDuckGo",
+	"sortKey": "DuckDuckGo",
+	"url": "http://duckduckhack.com",
+	"id": "duckduckgo"
+}
