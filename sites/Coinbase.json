@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"coinbase",
+		"bitcoin"
+	],
+	"name": "Coinbase",
+	"url": "https://coinbase.com/docs/api/overview",
+	"id": "coinbase"
+}
