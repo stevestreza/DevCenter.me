@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"cloudfoundry",
+		"cf"
+	],
+	"name": "Cloud Foundry",
+	"url": "http://docs.cloudfoundry.com",
+	"id": "cloudfoundry"
+}
