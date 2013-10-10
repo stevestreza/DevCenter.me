@@ -1,6 +1,7 @@
 {
 	"shortcuts": [
-		"mac"
+		"mac",
+		"osx"
 	],
 	"name": "Mac Dev Center",
 	"sortKey": "Apple Mac",
