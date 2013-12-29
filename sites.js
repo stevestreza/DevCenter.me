@@ -1,12 +1,15 @@
 var fs = require("fs");
 
-var sitesFilenames = fs.readdirSync("sites");
+var sitesDirectory = "sites";
+var sitesFilenames = fs.readdirSync(sitesDirectory);
 var sites = [];
 for(var idx = 0; idx < sitesFilenames.length; idx++){
 	var siteFilename = sitesFilenames[idx];
-	var siteData = fs.readFileSync("sites/" + siteFilename);
-	var site = JSON.parse(siteData);
-	sites.push(site);
+	if(siteFilename.substr(-5) === ".json"){
+		var siteData = fs.readFileSync(sitesDirectory + "/" + siteFilename);
+		var site = JSON.parse(siteData);
+		sites.push(site);
+	}
 }
 
 var sitesJSON = JSON.stringify({sites: sites});
