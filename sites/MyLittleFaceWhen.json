@@ -4,5 +4,6 @@
 		"mylittlefacewhen"
 	],
 	"name": "MyLittleFaceWhen",
-	"url": "http://piefork.com/#fetch?url=http%3A%2F%2Fmylittlefacewhen.com%2Fapi%2Fv3%2F"
+	"url": "http://piefork.com/#fetch?url=http%3A%2F%2Fmylittlefacewhen.com%2Fapi%2Fv3%2F",
+	"id": "mylittlefacewhen"
 }

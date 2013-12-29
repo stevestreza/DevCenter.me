@@ -1,5 +1,8 @@
 {
-	"shortcuts": ["steamworks"],
+	"shortcuts": [
+		"steamworks"
+	],
 	"name": "Steamworks",
-	"url": "https://partner.steamgames.com/home/steamworks/"
+	"url": "https://partner.steamgames.com/home/steamworks/",
+	"id": "steamworks"
 }
