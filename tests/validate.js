@@ -67,11 +67,13 @@ describe('Sites', function () {
 	describe('Uniqueness', function () {
 		var ids = [];
 		var shortcuts = [];
+		var urls = [];
 
 		sites.forEach(function (site) {
 			if(site.object){
 				ids.push(site.object.id);
 				shortcuts = shortcuts.concat(site.object.shortcuts);
+				urls.push(site.object.url);
 			}else{
 				console.log(site.name);
 			}
@@ -99,6 +101,18 @@ describe('Sites', function () {
 
 						assert.equal(matches.length, 1, "only one object with the shortcut");
 					});
+				});
+			});
+		});
+
+		describe('url should be unique', function () {
+			sites.forEach(function (site) {
+				it(site.name + ' should be have a unique url (' + site.object.url + ')', function () {
+					var matches = urls.filter(function (url) {
+						return (url === site.object.url);
+					});
+
+					assert.equal(matches.length, 1, "only one object with the url");
 				});
 			});
 		});
