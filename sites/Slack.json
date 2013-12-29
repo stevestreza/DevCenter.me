@@ -1,0 +1,9 @@
+{
+        "shortcuts": [
+                "slack"
+        ],
+        "name": "Slack",
+        "sortKey": "slack",
+        "url": "https://api.slack.com/",
+        "id": "slack"
+}
