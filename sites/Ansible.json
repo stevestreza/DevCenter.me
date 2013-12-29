@@ -1,0 +1,8 @@
+{
+        "shortcuts": [
+                "ansible"
+        ],
+        "name": "Ansible",
+        "id": "ansible",
+        "url": "http://www.ansibleworks.com/docs/"
+}
