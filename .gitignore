@@ -2,3 +2,5 @@ node_modules
 public/css
 shortcuts.log
 .DS_Store
+stats.sh
+stats.txt
