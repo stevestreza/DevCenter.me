@@ -1,0 +1,9 @@
+{
+        "shortcuts": [
+                "designernews",
+                "dn"
+        ],
+        "name": "Designer News API",
+        "url": "http://developers.news.layervault.com/",
+        "id": "designernews"
+}
