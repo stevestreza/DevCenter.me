@@ -36,6 +36,8 @@ header h1 {
 		font-size: 13px;
 		color: $secondary-color;
 		visibility: hidden;
+		float: right;
+		margin-top: -44px;
 
 		a {
 			color: $secondary-color;
