@@ -1,0 +1,8 @@
+{
+	"shortcuts": [
+		"imgur"
+	],
+	"name": "Imgur",
+	"url": "https://api.imgur.com/",
+	"id": "imgur"
+}
