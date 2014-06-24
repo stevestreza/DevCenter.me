@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"digitalocean",
+		"do"
+	],
+	"name": "Digital Ocean",
+	"url": "https://developers.digitalocean.com/",
+	"id": "digitalocean"
+}
