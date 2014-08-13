@@ -1,0 +1,8 @@
+{
+    "shortcuts": [
+        "random"
+    ],
+    "name": "RANDOM.ORG",
+    "url": "https://api.random.org/",
+    "id": "random"
+}
