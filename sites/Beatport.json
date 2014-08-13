@@ -3,5 +3,6 @@
         "beatport"
     ],
     "name": "Beatport",
-    "url": "https://oauth-api.beatport.com/"
+    "url": "https://oauth-api.beatport.com/",
+    "id": "Beatport"
 }

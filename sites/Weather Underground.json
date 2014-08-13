@@ -4,5 +4,6 @@
         "weather"
     ],
     "name": "Weather Underground",
-    "url": "http://www.wunderground.com/weather/api/"
+    "url": "http://www.wunderground.com/weather/api/",
+    "id": "wunderground"
 }

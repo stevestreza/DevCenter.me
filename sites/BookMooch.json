@@ -3,5 +3,6 @@
         "bookmooch"
     ],
     "name": "BookMooch",
-    "url": "http://bookmooch.com/api/"
+    "url": "http://bookmooch.com/api/",
+    "id": "bookmooch"
 }

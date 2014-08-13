@@ -3,5 +3,6 @@
         "mixcloud"
     ],
     "name": "Mixcloud",
-    "url": "http://www.mixcloud.com/developers/"
+    "url": "http://www.mixcloud.com/developers/",
+    "id": "mixcloud"
 }

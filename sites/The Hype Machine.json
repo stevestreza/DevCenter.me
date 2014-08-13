@@ -4,5 +4,6 @@
         "hype"
     ],
     "name": "The Hype Machine",
-    "url": "https://api.hypem.com/api-docs/"
+    "url": "https://api.hypem.com/api-docs/",
+    "id": "hypemachine"
 }
