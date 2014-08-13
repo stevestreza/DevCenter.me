@@ -1,0 +1,8 @@
+{
+    "shortcuts": [
+        "wunderground",
+        "weather"
+    ],
+    "name": "Weather Underground",
+    "url": "http://www.wunderground.com/weather/api/"
+}
