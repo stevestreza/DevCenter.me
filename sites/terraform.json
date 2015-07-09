@@ -1,0 +1,8 @@
+{
+        "shortcuts": [
+                "terraform"
+        ],
+        "name": "Terraform",
+        "id": "terraform",
+        "url": "http://www.terraform.io/docs/index.html"
+}

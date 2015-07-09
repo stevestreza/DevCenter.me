@@ -1,0 +1,9 @@
+{
+        "shortcuts": [
+                "vagrant",
+                "vagrantup"
+        ],
+        "name": "Vagrant",
+        "id": "vagrant",
+        "url": "http://docs.vagrantup.com/v2/"
+}
