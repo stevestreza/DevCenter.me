@@ -3,8 +3,8 @@
 		"msdn",
 		"win"
 	],
-	"name": "msdn",
+	"name": "Microsoft Developer Network (MSDN)",
 	"sortKey": "MSDN",
 	"url": "http://msdn.microsoft.com/",
-	"id": "msdn"
+	"id": "MSDN"
 }
