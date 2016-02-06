@@ -1,0 +1,8 @@
+{
+        "shortcuts": [
+                "consul"
+        ],
+        "name": "Consul",
+        "id": "consul",
+        "url": "http://www.consul.io/docs/index.html"
+}
