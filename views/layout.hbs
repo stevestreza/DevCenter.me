@@ -108,6 +108,12 @@
 				$("#search").val(existingSearch);
 				performSearch(existingSearch);
 			}
+
+			$('.site').click(function(e) {
+				if(!$(e.target).is('a') && $(this).find('a').length > 0) {
+					document.location = $(this).find('a').attr('href');
+				}
+			});
 		});
 	</script>
 
