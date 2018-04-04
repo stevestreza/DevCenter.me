@@ -1,0 +1,9 @@
+{
+	"shortcuts": [
+		"xcode"
+	],
+	"name": "Xcode Releases",
+	"sortKey": "Xcode Releases",
+	"url": "http://xcodereleases.com",
+	"id": "xcode"
+}
